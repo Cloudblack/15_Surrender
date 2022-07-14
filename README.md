@@ -7,6 +7,13 @@
 ### 프로젝트 기간
 2021/10/06 ~ 2021/10/13
 
+### 프로젝트 발표 동영상  
+
+[프로젝트 발표 영상](https://drive.google.com/file/d/1R1MKygH4E74wZNTOdviYepDIlra4_sby/view?usp=sharing)  
+
+[프로젝트 실제 시연 영상](https://drive.google.com/file/d/1RgBDS58kFwU03U2PZR-2vtE2N8GCQ4zB/view?usp=sharing)
+- 첫 번째 영상에 포함되어있는 부분입니다
+
 ### 목차
 - [프로젝트 배경](#프로젝트-배경)  
 - [프로젝트 진행](#프로젝트-진행)
